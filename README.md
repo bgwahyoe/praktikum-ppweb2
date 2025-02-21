@@ -26,6 +26,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/bg.wahyoee/">
   <img align="left" alt="Wahyu's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="">
-  <img align="left" alt="Wahyu's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+<a href="www.linkedin.com/in/wahyuahmadyassin">
+  <img align="left" alt="Wahyu's Linkedin" width="20px" src="https://simpleicons.vercel.app/logmein/495f7e" />
 </a>
