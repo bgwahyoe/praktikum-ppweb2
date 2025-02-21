@@ -20,8 +20,8 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="www.linkedin.com/in/wahyuahmadyassin">
-  <img align="left" alt="Wahyu's Twitter" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<a href="https://wa.me/62895604849987">
+  <img align="left" alt="Wahyu's Twitter" width="20px" src="https://simpleicons.vercel.app/whatsapp/495f7e" />
 </a>
 <a href="https://www.instagram.com/bg.wahyoee/">
   <img align="left" alt="Wahyu's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
