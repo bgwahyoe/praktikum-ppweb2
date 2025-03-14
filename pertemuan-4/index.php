@@ -13,7 +13,7 @@
         <H2>Selamat Datang di Perpustakaan STT Nurul Fikri</H2>
         <p>Silahkan isi Buku Tamu di bawah ini</p>
         <hr>
-        <form method="post" action="bukutamu.php">
+        <form method="post" action="kunjungan.php">
         <div class="form-group row">
             <label for="nama" class="col-4 col-form-label">Nama Lengkap</label> 
             <div class="col-8">
